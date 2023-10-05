@@ -16,7 +16,7 @@ for y in range(30):
     if num[y] > maior:
         maior = num[y]
     if num[y] < menor:
-        menor = numm[y]
+        menor = num[y]
 
 media = soma / 30
 qtd_media = 0
